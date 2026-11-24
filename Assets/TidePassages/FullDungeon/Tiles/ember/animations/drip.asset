@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: drip
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: b46d51c0a28448ea8ffba50fe3442cbb, type: 3}
+  - {fileID: 21300000, guid: 8264bd4a82b84d2a8ce428f05c4dd2fc, type: 3}
+  - {fileID: 21300000, guid: b77ed5fb5f3a4069bedf77b6c90a067c, type: 3}
+  - {fileID: 21300000, guid: 539961ec15e140f28b10d2ce163ceef5, type: 3}
+  - {fileID: 21300000, guid: 84dab12897604a3eb8b2c70ba5e4449b, type: 3}
+  - {fileID: 21300000, guid: 4b5ff4b9362b4c8a9e7a0ad06792082c, type: 3}
+  - {fileID: 21300000, guid: b612f164fd84473e9de29ba749c48376, type: 3}
+  - {fileID: 21300000, guid: fc43241538374bf995d8d43ce5ed7b27, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

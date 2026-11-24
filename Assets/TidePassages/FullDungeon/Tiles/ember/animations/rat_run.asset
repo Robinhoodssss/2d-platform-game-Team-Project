@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: rat_run
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 494a9f9c6f2c4ab097123dd3b1534a6a, type: 3}
+  - {fileID: 21300000, guid: 72cf3558bcc94b3c87d650539c3f2ad9, type: 3}
+  - {fileID: 21300000, guid: 9039a3e332f64a4a8bdf070185f2f5ac, type: 3}
+  - {fileID: 21300000, guid: 7eea3e04989a47c9a856b9548ffd7a70, type: 3}
+  - {fileID: 21300000, guid: 4d02a4a225964a4d837593d4192569ec, type: 3}
+  - {fileID: 21300000, guid: 7120bdcf812a4e01afd55446bfbc789c, type: 3}
+  - {fileID: 21300000, guid: 9dd15374da6c4015a97bea46c05385d9, type: 3}
+  - {fileID: 21300000, guid: ed196804340b4583be57a3c9f3809a6c, type: 3}
+  m_MinSpeed: 12
+  m_MaxSpeed: 12
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

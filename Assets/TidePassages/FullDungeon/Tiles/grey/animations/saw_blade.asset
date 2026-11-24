@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: saw_blade
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: bea42b48b94649c6bc56855d2771479c, type: 3}
+  - {fileID: 21300000, guid: 80d50a373d474c2c9e4e69a327ab44e1, type: 3}
+  - {fileID: 21300000, guid: 512a7e527e6442f694075aefa74756b9, type: 3}
+  - {fileID: 21300000, guid: b22516596a2a480b8b0bd103edac0ee3, type: 3}
+  - {fileID: 21300000, guid: f4f60e760fc648e3ac4fd49528f27144, type: 3}
+  - {fileID: 21300000, guid: fe87b8a5309d44cb90072f80dedecddb, type: 3}
+  - {fileID: 21300000, guid: 58b738493ac64baea670b3e285b86310, type: 3}
+  - {fileID: 21300000, guid: 736d0ca9a49d4d85bb86d87571defb58, type: 3}
+  m_MinSpeed: 16
+  m_MaxSpeed: 16
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

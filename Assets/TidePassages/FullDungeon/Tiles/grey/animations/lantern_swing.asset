@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: lantern_swing
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: c16b6344ee214421be520ecd3d596556, type: 3}
+  - {fileID: 21300000, guid: 142a2c0fe44548e984e40769b5056c55, type: 3}
+  - {fileID: 21300000, guid: 47ef00b6812c4c4daebf0debeea1d668, type: 3}
+  - {fileID: 21300000, guid: 441f06b3bd8045a7b6a15377ac07d440, type: 3}
+  - {fileID: 21300000, guid: e4ec478d43f84c538f37980ae35e831e, type: 3}
+  - {fileID: 21300000, guid: 666dee935f84447b84ad48ade43ed1ef, type: 3}
+  - {fileID: 21300000, guid: 458ad7c5f1fe4e50866b3994e38a9a54, type: 3}
+  - {fileID: 21300000, guid: f3a99023da094dafb0ad6e982e16e5e5, type: 3}
+  - {fileID: 21300000, guid: de799eaa161346da9079984ca060b64c, type: 3}
+  - {fileID: 21300000, guid: cce2f48211314ecd81c5d3a17faf073c, type: 3}
+  - {fileID: 21300000, guid: b3a40d78857a4b1e979cc2e2052d91b7, type: 3}
+  - {fileID: 21300000, guid: f8348384983943ae8ad856e4c4931c45, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

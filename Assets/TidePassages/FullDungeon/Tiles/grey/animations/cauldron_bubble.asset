@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: cauldron_bubble
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 85e9db76bc914510bb4b864ff95a0e5a, type: 3}
+  - {fileID: 21300000, guid: fe53173818dd4cd587aae112f10b7f74, type: 3}
+  - {fileID: 21300000, guid: 276f37f63d4644878e7726b4d3672e16, type: 3}
+  - {fileID: 21300000, guid: 1d90312a23e14b4aa20f8df148f71c41, type: 3}
+  - {fileID: 21300000, guid: db437ee683a747909ec84643990bc677, type: 3}
+  - {fileID: 21300000, guid: eb19350b94774f2cbb68eecf78c37871, type: 3}
+  - {fileID: 21300000, guid: 712ec520c7b94743a19008f6f2fa02a2, type: 3}
+  - {fileID: 21300000, guid: 78a81a0d01d84d108fb06eeb33d7e4b3, type: 3}
+  - {fileID: 21300000, guid: eb5fc5e9c1844d8dab53b3f592b848ac, type: 3}
+  - {fileID: 21300000, guid: 021d68fb827042b7acaa624ecfbd32e9, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

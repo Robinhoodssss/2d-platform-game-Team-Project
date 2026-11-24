@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: candelabra_lit
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: ace88a450ec04540917efcd7f3ee0deb, type: 3}
+  - {fileID: 21300000, guid: 967ad55f5e794c1e8a6541325cdeb5c0, type: 3}
+  - {fileID: 21300000, guid: 1c0b15277d5f4041b0bdd4e88b3b179c, type: 3}
+  - {fileID: 21300000, guid: 6ea5748fe8f14f098fd8416625d926a4, type: 3}
+  - {fileID: 21300000, guid: 4b3826817393419d8b259e7dc7b959d6, type: 3}
+  - {fileID: 21300000, guid: ac938ce4b49545e6a1903d80bbbe581c, type: 3}
+  - {fileID: 21300000, guid: 43c322365d6f4291ab2492bd702b9f26, type: 3}
+  - {fileID: 21300000, guid: 2377f8946c384c1eb80f495242570e7b, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

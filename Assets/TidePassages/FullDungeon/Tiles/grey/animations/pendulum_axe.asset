@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: pendulum_axe
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 48d400d46bdf4339abccdde6a8b84d2f, type: 3}
+  - {fileID: 21300000, guid: e2a7c04f48aa46668382bb61b8b89beb, type: 3}
+  - {fileID: 21300000, guid: dd25d71099ce48df84fc8e444b258bba, type: 3}
+  - {fileID: 21300000, guid: 01c672ccc3284673a60e635202abe747, type: 3}
+  - {fileID: 21300000, guid: e3595182fe8c47768763435cabec6e95, type: 3}
+  - {fileID: 21300000, guid: f8c255e159e34802832b573089827bf3, type: 3}
+  - {fileID: 21300000, guid: bb79e708c3d54661b06d0cd525153bcf, type: 3}
+  - {fileID: 21300000, guid: 5b7b5682f13646dfa1ba9df3cc9af2d0, type: 3}
+  - {fileID: 21300000, guid: f8e0d95c8d1d4072a4decf18f1f47c9b, type: 3}
+  - {fileID: 21300000, guid: 364df6ec1ec746f589bf605b97897dab, type: 3}
+  - {fileID: 21300000, guid: 646b0ab1292a484fb72b8899853a12af, type: 3}
+  - {fileID: 21300000, guid: 973b883d13264d6bbbfd4c69790584a7, type: 3}
+  - {fileID: 21300000, guid: f497033ccfa24696bbe807891483aaa1, type: 3}
+  - {fileID: 21300000, guid: 8cedbfaa6d284faaae16d2af3901a6eb, type: 3}
+  - {fileID: 21300000, guid: dc81c14b115d49d78d9021e1135680b4, type: 3}
+  - {fileID: 21300000, guid: 28e9a1bee1324b93ab682238eb7ef9c5, type: 3}
+  m_MinSpeed: 14
+  m_MaxSpeed: 14
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

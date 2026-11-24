@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: steam_vent
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 5b984157293d45e3a9e15e101118d9dd, type: 3}
+  - {fileID: 21300000, guid: 330733b21bab410d92ec9442ebec40db, type: 3}
+  - {fileID: 21300000, guid: a48d95f436614ffbb6c306e6971b4915, type: 3}
+  - {fileID: 21300000, guid: 8017b7ea840b4d90b2c38733725190bd, type: 3}
+  - {fileID: 21300000, guid: 1b8189bfaaf8486790b0b909d7f063dc, type: 3}
+  - {fileID: 21300000, guid: 70649e89839c40de9a369395c1a67386, type: 3}
+  - {fileID: 21300000, guid: be14ac23bdca4e16b12cb1133994844e, type: 3}
+  - {fileID: 21300000, guid: 3050673d43a34d12938cf8266a1f59a6, type: 3}
+  - {fileID: 21300000, guid: efa361c52659439d99ce58bb7fbf32a5, type: 3}
+  - {fileID: 21300000, guid: d836d535a0424b20bcd30d647b00e47b, type: 3}
+  - {fileID: 21300000, guid: f66697c160274addbaa1fbcdb2446ca0, type: 3}
+  - {fileID: 21300000, guid: 8cb698a651f848edb98b3b74126a195c, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

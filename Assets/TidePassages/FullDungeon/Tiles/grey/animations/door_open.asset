@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: door_open
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: d9b2ff2ff02447109109d0c169b59727, type: 3}
+  - {fileID: 21300000, guid: c31bb64f905f40808efd95770860608a, type: 3}
+  - {fileID: 21300000, guid: ffa88654acfc4fe3b44df0c948331248, type: 3}
+  - {fileID: 21300000, guid: 3cb0edfbb6dd43d697c8c70686383117, type: 3}
+  - {fileID: 21300000, guid: 03c2f29abf8846acb96f8d616c79e130, type: 3}
+  - {fileID: 21300000, guid: 43b59d4424fc4b06a5474750d751a345, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

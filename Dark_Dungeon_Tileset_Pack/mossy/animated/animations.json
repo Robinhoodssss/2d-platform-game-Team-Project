@@ -1,0 +1,335 @@
+{
+ "torch": {
+  "frames": 8,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 64,
+  "frame_h": 112,
+  "sheet": "torch/torch_sheet.png",
+  "note": "wall torch with animated flame"
+ },
+ "brazier": {
+  "frames": 8,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 80,
+  "frame_h": 122,
+  "sheet": "brazier/brazier_sheet.png",
+  "note": "standing brazier, three flames"
+ },
+ "chain_short": {
+  "frames": 8,
+  "fps": 6,
+  "loop": true,
+  "frame_w": 40,
+  "frame_h": 47,
+  "sheet": "chain_short/chain_short_sheet.png",
+  "note": "hanging chain, swaying"
+ },
+ "chain_long": {
+  "frames": 8,
+  "fps": 6,
+  "loop": true,
+  "frame_w": 40,
+  "frame_h": 91,
+  "sheet": "chain_long/chain_long_sheet.png",
+  "note": "long hanging chain, swaying"
+ },
+ "banner_skull": {
+  "frames": 8,
+  "fps": 6,
+  "loop": true,
+  "frame_w": 72,
+  "frame_h": 132,
+  "sheet": "banner_skull/banner_skull_sheet.png",
+  "note": "waving wall banner"
+ },
+ "spike_trap": {
+  "frames": 8,
+  "fps": 8,
+  "loop": true,
+  "frame_w": 64,
+  "frame_h": 76,
+  "sheet": "spike_trap/spike_trap_sheet.png",
+  "note": "floor spike trap cycle: rest, warning, extend, retract"
+ },
+ "liquid_pool_water": {
+  "frames": 8,
+  "fps": 8,
+  "loop": true,
+  "frame_w": 64,
+  "frame_h": 64,
+  "sheet": "liquid_pool_water/liquid_pool_water_sheet.png",
+  "note": "tileable liquid surface (slime / water / ectoplasm / lava depending on the variant), repeats horizontally"
+ },
+ "rune_floor": {
+  "frames": 8,
+  "fps": 8,
+  "loop": true,
+  "frame_w": 64,
+  "frame_h": 24,
+  "sheet": "rune_floor/rune_floor_sheet.png",
+  "note": "pulsing floor rune"
+ },
+ "door_open": {
+  "frames": 6,
+  "fps": 8,
+  "loop": false,
+  "frame_w": 68,
+  "frame_h": 130,
+  "sheet": "door_open/door_open_sheet.png",
+  "note": "wooden door swinging open (closed -> open)"
+ },
+ "portcullis_raise": {
+  "frames": 6,
+  "fps": 8,
+  "loop": false,
+  "frame_w": 68,
+  "frame_h": 130,
+  "sheet": "portcullis_raise/portcullis_raise_sheet.png",
+  "note": "gate rising (closed -> open)"
+ },
+ "drip": {
+  "frames": 8,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 32,
+  "frame_h": 96,
+  "sheet": "drip/drip_sheet.png",
+  "note": "stalactite drip: forms, falls, splashes"
+ },
+ "candle": {
+  "frames": 6,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 32,
+  "frame_h": 56,
+  "sheet": "candle/candle_sheet.png",
+  "note": "candle with flickering flame"
+ },
+ "saw_blade": {
+  "frames": 8,
+  "fps": 16,
+  "loop": true,
+  "frame_w": 64,
+  "frame_h": 64,
+  "sheet": "saw_blade/saw_blade_sheet.png",
+  "note": "spinning saw blade, 64x64 (move it along a rail yourself)"
+ },
+ "fire_trap": {
+  "frames": 14,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 64,
+  "frame_h": 112,
+  "sheet": "fire_trap/fire_trap_sheet.png",
+  "note": "floor fire jet cycle: sparks, burst, fade. Damage window is frames 7-10"
+ },
+ "pendulum_axe": {
+  "frames": 16,
+  "fps": 14,
+  "loop": true,
+  "frame_w": 272,
+  "frame_h": 184,
+  "sheet": "pendulum_axe/pendulum_axe_sheet.png",
+  "note": "swinging pendulum axe, pivot at the top centre"
+ },
+ "stomper": {
+  "frames": 14,
+  "fps": 12,
+  "loop": true,
+  "frame_w": 72,
+  "frame_h": 200,
+  "sheet": "stomper/stomper_sheet.png",
+  "note": "spiked ceiling stomper: wait, drop, slam, retract. Damage window is frames 5-8"
+ },
+ "cauldron_bubble": {
+  "frames": 10,
+  "fps": 8,
+  "loop": true,
+  "frame_w": 72,
+  "frame_h": 88,
+  "sheet": "cauldron_bubble/cauldron_bubble_sheet.png",
+  "note": "bubbling cauldron"
+ },
+ "candelabra_lit": {
+  "frames": 8,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 56,
+  "frame_h": 90,
+  "sheet": "candelabra_lit/candelabra_lit_sheet.png",
+  "note": "standing candelabra, three flames"
+ },
+ "lantern_swing": {
+  "frames": 12,
+  "fps": 8,
+  "loop": true,
+  "frame_w": 64,
+  "frame_h": 100,
+  "sheet": "lantern_swing/lantern_swing_sheet.png",
+  "note": "hanging lantern swinging gently"
+ },
+ "chest_open": {
+  "frames": 10,
+  "fps": 10,
+  "loop": false,
+  "frame_w": 80,
+  "frame_h": 90,
+  "sheet": "chest_open/chest_open_sheet.png",
+  "note": "treasure chest opening: lid lifts, light and coins appear (one-shot, ends open)"
+ },
+ "lever_pull": {
+  "frames": 8,
+  "fps": 10,
+  "loop": false,
+  "frame_w": 56,
+  "frame_h": 60,
+  "sheet": "lever_pull/lever_pull_sheet.png",
+  "note": "lever pulled from off to on (one-shot)"
+ },
+ "plate_press": {
+  "frames": 6,
+  "fps": 10,
+  "loop": false,
+  "frame_w": 72,
+  "frame_h": 28,
+  "sheet": "plate_press/plate_press_sheet.png",
+  "note": "pressure plate pressed with a dust puff (one-shot)"
+ },
+ "crumbling_platform": {
+  "frames": 14,
+  "fps": 12,
+  "loop": false,
+  "frame_w": 104,
+  "frame_h": 110,
+  "sheet": "crumbling_platform/crumbling_platform_sheet.png",
+  "note": "wooden platform shakes, cracks and breaks apart (one-shot; trigger when stepped on)"
+ },
+ "trapdoor_open": {
+  "frames": 10,
+  "fps": 10,
+  "loop": false,
+  "frame_w": 80,
+  "frame_h": 30,
+  "sheet": "trapdoor_open/trapdoor_open_sheet.png",
+  "note": "floor trapdoor swinging open (one-shot)"
+ },
+ "arrow_trap": {
+  "frames": 14,
+  "fps": 12,
+  "loop": true,
+  "frame_w": 200,
+  "frame_h": 36,
+  "sheet": "arrow_trap/arrow_trap_sheet.png",
+  "note": "wall arrow trap: charge, shoot, flying arrow, reset"
+ },
+ "bat_fly": {
+  "frames": 8,
+  "fps": 12,
+  "loop": true,
+  "frame_w": 52,
+  "frame_h": 36,
+  "sheet": "bat_fly/bat_fly_sheet.png",
+  "note": "bat flapping (loop; move it across the screen yourself)"
+ },
+ "rat_run": {
+  "frames": 8,
+  "fps": 12,
+  "loop": true,
+  "frame_w": 60,
+  "frame_h": 26,
+  "sheet": "rat_run/rat_run_sheet.png",
+  "note": "rat running to the right (loop; flip for left)"
+ },
+ "spider_drop": {
+  "frames": 14,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 36,
+  "frame_h": 140,
+  "sheet": "spider_drop/spider_drop_sheet.png",
+  "note": "spider on a thread: descends and climbs back"
+ },
+ "portal": {
+  "frames": 12,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 88,
+  "frame_h": 120,
+  "sheet": "portal/portal_sheet.png",
+  "note": "swirling magic portal, 88x120, glowing in the palette colour"
+ },
+ "wisp": {
+  "frames": 12,
+  "fps": 8,
+  "loop": true,
+  "frame_w": 40,
+  "frame_h": 52,
+  "sheet": "wisp/wisp_sheet.png",
+  "note": "floating soul wisp with a fading trail"
+ },
+ "steam_vent": {
+  "frames": 12,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 64,
+  "frame_h": 112,
+  "sheet": "steam_vent/steam_vent_sheet.png",
+  "note": "floor grate venting steam"
+ },
+ "cobweb_sway": {
+  "frames": 10,
+  "fps": 6,
+  "loop": true,
+  "frame_w": 58,
+  "frame_h": 52,
+  "sheet": "cobweb_sway/cobweb_sway_sheet.png",
+  "note": "cobweb swaying in a draught (corner top-left; flip for the other corner)"
+ },
+ "coin_spin": {
+  "frames": 8,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 28,
+  "frame_h": 30,
+  "sheet": "coin_spin/coin_spin_sheet.png",
+  "note": "spinning gold coin"
+ },
+ "gem_sparkle": {
+  "frames": 10,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 44,
+  "frame_h": 44,
+  "sheet": "gem_sparkle/gem_sparkle_sheet.png",
+  "note": "gem with a glint that sparkles across it"
+ },
+ "skull_eyes_glow": {
+  "frames": 10,
+  "fps": 8,
+  "loop": true,
+  "frame_w": 64,
+  "frame_h": 64,
+  "sheet": "skull_eyes_glow/skull_eyes_glow_sheet.png",
+  "note": "64x64 overlay: pulsing glowing eyes, place over wall_skull_relief at the same position"
+ },
+ "chandelier_swing": {
+  "frames": 12,
+  "fps": 8,
+  "loop": true,
+  "frame_w": 140,
+  "frame_h": 130,
+  "sheet": "chandelier_swing/chandelier_swing_sheet.png",
+  "note": "hanging candle chandelier swinging, five flames"
+ },
+ "drain_flow": {
+  "frames": 8,
+  "fps": 10,
+  "loop": true,
+  "frame_w": 40,
+  "frame_h": 110,
+  "sheet": "drain_flow/drain_flow_sheet.png",
+  "note": "liquid streaming out of a wall drain into a pool (slime / water / ectoplasm / lava by palette)"
+ }
+}

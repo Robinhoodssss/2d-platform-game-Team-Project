@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: portcullis_raise
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 8a916658b79346aea7d1b1a8a2f85230, type: 3}
+  - {fileID: 21300000, guid: bc598c17e04142db86fbcd6b6cd49efc, type: 3}
+  - {fileID: 21300000, guid: 8b1c2e9d97d34a2fbe2abb782fa93a27, type: 3}
+  - {fileID: 21300000, guid: 51a240e7221240ac94cd6b1352d8c305, type: 3}
+  - {fileID: 21300000, guid: becbe73796d04a43a9aceb2f064c2429, type: 3}
+  - {fileID: 21300000, guid: e6a8c03ec94e4221b229d9310d2e7656, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

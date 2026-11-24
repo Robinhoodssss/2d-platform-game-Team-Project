@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: arrow_trap
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 0705e8ea888246e884cf812afe0056f6, type: 3}
+  - {fileID: 21300000, guid: 6afd9dae15e241569ded8c7a5f7bffcd, type: 3}
+  - {fileID: 21300000, guid: 7e062dc1671449228ceb16b53af9c29a, type: 3}
+  - {fileID: 21300000, guid: 8cbb2a72e4f04bc09ddf4214d4978d14, type: 3}
+  - {fileID: 21300000, guid: ae0a8e10d1f2433a8dd6a8ef5087f50a, type: 3}
+  - {fileID: 21300000, guid: 4e2403a567cc4dc4875305fb67515875, type: 3}
+  - {fileID: 21300000, guid: 65245e1e1b394e82836265f20cffcfd9, type: 3}
+  - {fileID: 21300000, guid: e48ff54c9fd54a14a28bd3efc3819e10, type: 3}
+  - {fileID: 21300000, guid: fdb49cc2b02b45df89e65047bcd27971, type: 3}
+  - {fileID: 21300000, guid: e9b544f1c1504283841ad4d80669f82a, type: 3}
+  - {fileID: 21300000, guid: 8c02ffc508a84b729c0ce41e3c1121e1, type: 3}
+  - {fileID: 21300000, guid: 4f0d661b03ce4b419cd509b88aec3a77, type: 3}
+  - {fileID: 21300000, guid: 72b8168c523347a7898b3a51f770cdf7, type: 3}
+  - {fileID: 21300000, guid: c31c83da1cb044069cae724a19ec13e7, type: 3}
+  m_MinSpeed: 12
+  m_MaxSpeed: 12
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

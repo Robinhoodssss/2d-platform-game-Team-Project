@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: brazier
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: d800d6d4e3ca4436b942d53642c7261e, type: 3}
+  - {fileID: 21300000, guid: ebff2d07a4464dbd950dd647f03e7ba0, type: 3}
+  - {fileID: 21300000, guid: c882184f2a8d4b2e86fae5ddc5967436, type: 3}
+  - {fileID: 21300000, guid: 6545f0dee4b54d8ca9ba49340b9efd01, type: 3}
+  - {fileID: 21300000, guid: 3091ad2875774e36a2237caf53e9d587, type: 3}
+  - {fileID: 21300000, guid: 9f19e47cfd9546ac8112c30518a7ba78, type: 3}
+  - {fileID: 21300000, guid: 123d80595bd243ae80674b5487ac8a69, type: 3}
+  - {fileID: 21300000, guid: ebf4b55f1ae943d7ad4cafeb653726d5, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

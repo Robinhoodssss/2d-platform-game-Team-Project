@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: coin_spin
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: d637cce1e95847ad8ce98761ca77b93a, type: 3}
+  - {fileID: 21300000, guid: caa36aefa6624e1aa30045ce7be61f47, type: 3}
+  - {fileID: 21300000, guid: 891e66b53453463897f0ad847ad16602, type: 3}
+  - {fileID: 21300000, guid: bb5e82d54ff744068e2dc710a40f24c4, type: 3}
+  - {fileID: 21300000, guid: be6d409db1f94f9badf35e6637b439f2, type: 3}
+  - {fileID: 21300000, guid: 027e461edb824e4a8550ada3fe8ced63, type: 3}
+  - {fileID: 21300000, guid: 5b04ad1130b245678cb7bcd79a30480a, type: 3}
+  - {fileID: 21300000, guid: 3dad8a6b8af947268114565df0f6a819, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

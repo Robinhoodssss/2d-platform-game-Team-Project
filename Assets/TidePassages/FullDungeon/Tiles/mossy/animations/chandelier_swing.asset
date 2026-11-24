@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: chandelier_swing
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 036ff82b102a4a30af229a157466de96, type: 3}
+  - {fileID: 21300000, guid: a466d3348f1e487bbe375d96daf309e2, type: 3}
+  - {fileID: 21300000, guid: c98f9c70cbfb46a4afcee4ea991ac9cb, type: 3}
+  - {fileID: 21300000, guid: db43e6ccb6f747e4a345142a41e39e29, type: 3}
+  - {fileID: 21300000, guid: bc6c2aaa042e431caba3a021e531d039, type: 3}
+  - {fileID: 21300000, guid: 52985618a7a64ccd82062e265d1e5fb6, type: 3}
+  - {fileID: 21300000, guid: 949410ae80c54e51a4d5b459c9f3569b, type: 3}
+  - {fileID: 21300000, guid: d8c15f30870a40e59ef4aab53bccbe58, type: 3}
+  - {fileID: 21300000, guid: 3d82f11ccf7f46ec9353dcda5488752a, type: 3}
+  - {fileID: 21300000, guid: da6a7cd8ec8e46ba830ad5d55530b30f, type: 3}
+  - {fileID: 21300000, guid: 88cc89b24f9a4b73afcac2777f79584b, type: 3}
+  - {fileID: 21300000, guid: aa4da7e1f028418493948ae13a7a4893, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

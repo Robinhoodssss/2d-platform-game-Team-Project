@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: wisp
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 227f5673a39b404894bb375b728ec4d5, type: 3}
+  - {fileID: 21300000, guid: aabffcda809e42779cc7ed65272decc0, type: 3}
+  - {fileID: 21300000, guid: fc72ac89ddf64468bbf6d106fef58292, type: 3}
+  - {fileID: 21300000, guid: 8e1fd4c02b504688a70137c9556d633f, type: 3}
+  - {fileID: 21300000, guid: 6642a4c723014825986b14a93223f28e, type: 3}
+  - {fileID: 21300000, guid: af7030643f3d484fa110c5323f7b0c77, type: 3}
+  - {fileID: 21300000, guid: 1351d2829e5341d39e3dcfa6ed920c11, type: 3}
+  - {fileID: 21300000, guid: 8ffd621d9e7442f499474800ab0263b2, type: 3}
+  - {fileID: 21300000, guid: b606c7ea03cf4ed481f60595f23e93fb, type: 3}
+  - {fileID: 21300000, guid: 1e9c8fa6add647df9875bd8b42eb53e0, type: 3}
+  - {fileID: 21300000, guid: a981c9297ded42a3b493e2700077345c, type: 3}
+  - {fileID: 21300000, guid: 8e8ac20d2be044df9bbda8bce6dd53fd, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

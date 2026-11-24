@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: portal
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 9a9ee71c59c14c12a5ffec015aefe68c, type: 3}
+  - {fileID: 21300000, guid: cf3f0502ab2c44a986c79ddf649daea0, type: 3}
+  - {fileID: 21300000, guid: 5834e6f8b66a4e19accbc4680cde6698, type: 3}
+  - {fileID: 21300000, guid: a0d4e729383642fc9117728a8af235b5, type: 3}
+  - {fileID: 21300000, guid: d59b14bacccc423b8bec90ff323575ba, type: 3}
+  - {fileID: 21300000, guid: 758b8ba020e74b17b4f98d43ed75f117, type: 3}
+  - {fileID: 21300000, guid: b5c6a9b5933c4b69956d8f58b8dfb23d, type: 3}
+  - {fileID: 21300000, guid: 0cdf5359033c45d0809d165d79b79933, type: 3}
+  - {fileID: 21300000, guid: 228e0b189b2442ffbac3b50f0d0076a2, type: 3}
+  - {fileID: 21300000, guid: 0f85a98b5faa4687ae23c303eeaaf56e, type: 3}
+  - {fileID: 21300000, guid: f9a7c6aa6bda498c9ad45730d80cd2c5, type: 3}
+  - {fileID: 21300000, guid: 9f289b759ee44808a5051204997140f7, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

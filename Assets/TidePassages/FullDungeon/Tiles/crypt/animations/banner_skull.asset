@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: banner_skull
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: f87225ede3a540f5b71b14698621e39e, type: 3}
+  - {fileID: 21300000, guid: ae71771aabad4791853d954e1e0b69e2, type: 3}
+  - {fileID: 21300000, guid: e5714bf95bc24e109a1d1d6b7f7eb53e, type: 3}
+  - {fileID: 21300000, guid: 95f92312463940c9b15da6008ef7fd45, type: 3}
+  - {fileID: 21300000, guid: 5a6cbbaa2d894ebf9989fd70c7031b33, type: 3}
+  - {fileID: 21300000, guid: a507e04d51ba4ceba4c32174c4d4841b, type: 3}
+  - {fileID: 21300000, guid: cd65d5b55b6c49b3957913176a9b8a11, type: 3}
+  - {fileID: 21300000, guid: 0e6a184ea723454f9e6de775f58a5fc7, type: 3}
+  m_MinSpeed: 6
+  m_MaxSpeed: 6
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: spider_drop
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 6048ce0f27b5462a8af73b6965a0cc0a, type: 3}
+  - {fileID: 21300000, guid: ceaa7cea65c346ecbf7a7fbc4f842f26, type: 3}
+  - {fileID: 21300000, guid: 39075ffa41a9446f9c17ba6fd888ddda, type: 3}
+  - {fileID: 21300000, guid: 238ec08df9f945688cd570a9507157ad, type: 3}
+  - {fileID: 21300000, guid: 4f754deedb184d888aca38fdc8b10aec, type: 3}
+  - {fileID: 21300000, guid: eea9ce7732764a789a4c4c699ee2e533, type: 3}
+  - {fileID: 21300000, guid: 2bfb390383304133aa13babfb911a90c, type: 3}
+  - {fileID: 21300000, guid: 67ccb1ffa68446b6bef9296bcbfbb8c5, type: 3}
+  - {fileID: 21300000, guid: 6bcaa715df6b4021ad91b570d1865081, type: 3}
+  - {fileID: 21300000, guid: 1fde60a4a0334bf39ccd92c5d66619d8, type: 3}
+  - {fileID: 21300000, guid: e3d6fda28dce40f7ac75a7cfad1fae51, type: 3}
+  - {fileID: 21300000, guid: 376f5d0f959642d98068c3cdb3ee5449, type: 3}
+  - {fileID: 21300000, guid: 76f151247f644e51bcb372ca02c26bae, type: 3}
+  - {fileID: 21300000, guid: 4d67d2cb470f4d77bfb7bd621a10989a, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

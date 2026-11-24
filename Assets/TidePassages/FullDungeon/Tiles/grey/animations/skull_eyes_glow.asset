@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: skull_eyes_glow
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: d405d7c313744effb981775541e5c83c, type: 3}
+  - {fileID: 21300000, guid: 03bd84dd2e284d359676df42477cf6d7, type: 3}
+  - {fileID: 21300000, guid: 215c4e82b52a4c45b7655414ded42825, type: 3}
+  - {fileID: 21300000, guid: de19240a867f41699a30ad722d4a7683, type: 3}
+  - {fileID: 21300000, guid: 2cdfb4520f5e4d79ae1c6f397ec72226, type: 3}
+  - {fileID: 21300000, guid: 3a021edb3738479aa047f88b37e13173, type: 3}
+  - {fileID: 21300000, guid: a985a7ae70f34b21ab46bbc3899046e3, type: 3}
+  - {fileID: 21300000, guid: e6144955c5554dfd8d7f6b9976eba537, type: 3}
+  - {fileID: 21300000, guid: ab0fa2bcbefd46889cd15c3f5ff94003, type: 3}
+  - {fileID: 21300000, guid: 73c8436bd81e43e9b5396208c9469cf5, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

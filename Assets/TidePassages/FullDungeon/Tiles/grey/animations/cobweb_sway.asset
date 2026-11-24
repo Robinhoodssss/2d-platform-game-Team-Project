@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: cobweb_sway
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 1987f1fbd04e48d18d6d92a2499a31bb, type: 3}
+  - {fileID: 21300000, guid: 27553e4312b143ebb7fc5dc9de01f097, type: 3}
+  - {fileID: 21300000, guid: 0db02f7b0b4249e2a45b7823b59ff8f9, type: 3}
+  - {fileID: 21300000, guid: e2e8eb4598684baab764ca26a23c4385, type: 3}
+  - {fileID: 21300000, guid: 4e9ff13ce83d4e639b0952f21ec07f63, type: 3}
+  - {fileID: 21300000, guid: 90b5e9ec8838486bb62e06e6c0dacc48, type: 3}
+  - {fileID: 21300000, guid: ccc6f0c6ba0c436b975cc901e2c06138, type: 3}
+  - {fileID: 21300000, guid: 5e5c054baefb4587947a7800a981c0be, type: 3}
+  - {fileID: 21300000, guid: 265b17f29d5e4837b4176d2500fc0bbd, type: 3}
+  - {fileID: 21300000, guid: 7e18e7e1d5df45b5a1bb56a9e762bb07, type: 3}
+  m_MinSpeed: 6
+  m_MaxSpeed: 6
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

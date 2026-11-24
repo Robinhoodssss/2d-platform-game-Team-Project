@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: torch
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: b507b28a7e34404fa6df5bfb1e8436c2, type: 3}
+  - {fileID: 21300000, guid: d287a106ce754c1caa5d6561356842e9, type: 3}
+  - {fileID: 21300000, guid: 7622f1e7a86140e886551326682c6f1e, type: 3}
+  - {fileID: 21300000, guid: 5da0c371f6524f9cbfdfdf43b264a2c1, type: 3}
+  - {fileID: 21300000, guid: 1c07c637d0124f4a86c8404de50e18cd, type: 3}
+  - {fileID: 21300000, guid: 01a90ab357de4169850fa3db21532bd1, type: 3}
+  - {fileID: 21300000, guid: d57526e8ea574b3e9ce088fe5d94ecae, type: 3}
+  - {fileID: 21300000, guid: 7da24f7ed7ed46888cdc37f1a003f3e8, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

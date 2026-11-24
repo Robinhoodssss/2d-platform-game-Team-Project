@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: bat_fly
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 64a513873b784ca6b2b72a6c4a495e48, type: 3}
+  - {fileID: 21300000, guid: ee611d25cf96480cb227f39e8da78ac8, type: 3}
+  - {fileID: 21300000, guid: 82c7fce04390483ca11ea764e78e521c, type: 3}
+  - {fileID: 21300000, guid: 695c4f43294d4e529d075bb65b9a6e9c, type: 3}
+  - {fileID: 21300000, guid: 63373244a5cf4f9e93d85dfc09802d4d, type: 3}
+  - {fileID: 21300000, guid: 3d59a8eb2c0c4ac6b10f9f7936c2463b, type: 3}
+  - {fileID: 21300000, guid: 8faa34d073ae49d8a17789f8e12613a9, type: 3}
+  - {fileID: 21300000, guid: ebc8bcd9a9ec4b18a241717c39d7ed39, type: 3}
+  m_MinSpeed: 12
+  m_MaxSpeed: 12
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: gem_sparkle
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 51a034f91eb045cc8566a94dbc5c53cc, type: 3}
+  - {fileID: 21300000, guid: 72d9b3934ddd47c0926ce852996a95a1, type: 3}
+  - {fileID: 21300000, guid: a8861416f775497480e5d168419f30bd, type: 3}
+  - {fileID: 21300000, guid: c72594f8eb8c44c4bb0bc17fa71b95cc, type: 3}
+  - {fileID: 21300000, guid: d7aba23625af467fad63216b8b966aae, type: 3}
+  - {fileID: 21300000, guid: e8a3baec5e9042ebab6369b8470f7f27, type: 3}
+  - {fileID: 21300000, guid: 0b9fe562edd24a30b094588cbb76be7c, type: 3}
+  - {fileID: 21300000, guid: 877f93ee12734b1b86725d054cc8c758, type: 3}
+  - {fileID: 21300000, guid: 172f41b3c5114d87a826faaf00c114a6, type: 3}
+  - {fileID: 21300000, guid: eb87340c807e441db00b3f65d0c5defd, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

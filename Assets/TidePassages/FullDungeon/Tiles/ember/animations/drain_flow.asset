@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: drain_flow
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: ff749cee62cd4085a83b40bffd5aed20, type: 3}
+  - {fileID: 21300000, guid: 5afd57e7a1814e2785b6beaddb702ffb, type: 3}
+  - {fileID: 21300000, guid: 1ef470dfa28b4a21b988911e2b4ade7d, type: 3}
+  - {fileID: 21300000, guid: 09faca8816df4df4807fad3a9accd83d, type: 3}
+  - {fileID: 21300000, guid: a94f8696221742cdb31624b87054f096, type: 3}
+  - {fileID: 21300000, guid: d30f2dbee0594ce39ebf4bb166b316c8, type: 3}
+  - {fileID: 21300000, guid: 5d91d18a9276474a81c55bf610be2b02, type: 3}
+  - {fileID: 21300000, guid: cc31639b322b4b469f8b147a654a7f6b, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: liquid_pool_lava
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: ed076f79d77c4675b84c836f5b09ff53, type: 3}
+  - {fileID: 21300000, guid: 23fda47d02d849bf91ff9ca93505e070, type: 3}
+  - {fileID: 21300000, guid: 9effd9ddb3d24c5f9c307425fe2d7a25, type: 3}
+  - {fileID: 21300000, guid: cfd6156defb04c5bbd1cf6e8e510073b, type: 3}
+  - {fileID: 21300000, guid: 161023f3a5b24c7285235469244cc0ec, type: 3}
+  - {fileID: 21300000, guid: 54a77317bc0d4601998d5f019e640b81, type: 3}
+  - {fileID: 21300000, guid: 6ba14688d1a447eebcfd7584578321ef, type: 3}
+  - {fileID: 21300000, guid: a8e53a8b252145f9ba5610bfbe8963e2, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

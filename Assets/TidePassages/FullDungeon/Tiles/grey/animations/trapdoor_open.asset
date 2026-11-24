@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: trapdoor_open
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 1ce831ab8d23421caa2b955f934d626a, type: 3}
+  - {fileID: 21300000, guid: b96ca2f631ac44a4a6ab15f751f27967, type: 3}
+  - {fileID: 21300000, guid: 761f4ba0c5974cbab52661e76d0eab2e, type: 3}
+  - {fileID: 21300000, guid: 0a37563316314398906b8b078f0aed5c, type: 3}
+  - {fileID: 21300000, guid: b5fd864962eb4efcbb1e45e11dd9e78f, type: 3}
+  - {fileID: 21300000, guid: 35e05f878344491bb6ac1a4bd71be49a, type: 3}
+  - {fileID: 21300000, guid: 088c9b5a67bf4411a91bff13c72e7d54, type: 3}
+  - {fileID: 21300000, guid: 237882178b7d4781b8d76e96afd5bde5, type: 3}
+  - {fileID: 21300000, guid: 92e92106616e4709a0ffbf689d49bd81, type: 3}
+  - {fileID: 21300000, guid: 7b81af936c014eeaba7e6abc632fc868, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

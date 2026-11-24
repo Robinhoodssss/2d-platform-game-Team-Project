@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: lever_pull
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: f672642c91094ffaa3be56e1ccc67133, type: 3}
+  - {fileID: 21300000, guid: d3f0e20f9f5c441ea39be62c34608f12, type: 3}
+  - {fileID: 21300000, guid: 443517aaadef4a43aca42e389b1bd515, type: 3}
+  - {fileID: 21300000, guid: f328238bff254fe4a013e008094b63f0, type: 3}
+  - {fileID: 21300000, guid: acde35f1a8a344ee9a7247a6b6607657, type: 3}
+  - {fileID: 21300000, guid: 1f6705ba85eb4534b9e542c77d684eec, type: 3}
+  - {fileID: 21300000, guid: 38cfe216a6964f51a9f322b2417dfe30, type: 3}
+  - {fileID: 21300000, guid: d0841e95e60c40c0a82bc38999d4c64c, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

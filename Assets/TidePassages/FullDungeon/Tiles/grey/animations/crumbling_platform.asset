@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: crumbling_platform
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 27b6635b80b642e0bbb72600c2a0b45e, type: 3}
+  - {fileID: 21300000, guid: 6f786bc30f484822b591f8bcde538a89, type: 3}
+  - {fileID: 21300000, guid: 9eb6892a63724921b7b34c7eca7bfa1e, type: 3}
+  - {fileID: 21300000, guid: 0877c085e5794f77be6ba788b5d2e4d1, type: 3}
+  - {fileID: 21300000, guid: 7c79834c061342199802dffc0b4e8876, type: 3}
+  - {fileID: 21300000, guid: 1d1b436d722d41b29c438f15cbbbeddb, type: 3}
+  - {fileID: 21300000, guid: e31d6eb56241454db41b41189875fd29, type: 3}
+  - {fileID: 21300000, guid: 8301d48eea614bbb8befdbfa22ad6e2f, type: 3}
+  - {fileID: 21300000, guid: 402c4e40c2d5405896d6f3f47f6c7f72, type: 3}
+  - {fileID: 21300000, guid: 853c237edff6480aa82f40a6b0b8c925, type: 3}
+  - {fileID: 21300000, guid: dd432a0b259f481f9fe291c991ad5bb7, type: 3}
+  - {fileID: 21300000, guid: 9f348a7889114a4abbf0e816b2152573, type: 3}
+  - {fileID: 21300000, guid: 1459834a80bf4ddebfa2388efb3a718b, type: 3}
+  - {fileID: 21300000, guid: 6e9e2f06a7544e5f9c2b2bf81d3dc2d9, type: 3}
+  m_MinSpeed: 12
+  m_MaxSpeed: 12
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

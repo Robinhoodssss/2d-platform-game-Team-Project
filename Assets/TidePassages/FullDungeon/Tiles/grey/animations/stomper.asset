@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: stomper
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 2f1c1c5568cf440ba6dc58725250d801, type: 3}
+  - {fileID: 21300000, guid: 3ffafc2d0fc04c7dbe43539e51ce47e3, type: 3}
+  - {fileID: 21300000, guid: 0572aacd38c6483aba606cb0b39fba21, type: 3}
+  - {fileID: 21300000, guid: f6459b5dc2994a5180914245610e862a, type: 3}
+  - {fileID: 21300000, guid: 85db9f810b2e4dd9b71af048ccd17f8e, type: 3}
+  - {fileID: 21300000, guid: 7697b380ccc2445d9fe4e70ac0241d50, type: 3}
+  - {fileID: 21300000, guid: 9de25f3926024054b7a89f89cb80f299, type: 3}
+  - {fileID: 21300000, guid: cae57c0acbf148a98e278fe3a74a41d9, type: 3}
+  - {fileID: 21300000, guid: 9a249ddc717646caae08d7d79fb11926, type: 3}
+  - {fileID: 21300000, guid: 0e8670083ebe45fb9b7dcf5d25ea3d01, type: 3}
+  - {fileID: 21300000, guid: c36a2d1a40c44ceb852ef286b3e2dada, type: 3}
+  - {fileID: 21300000, guid: 26846f83562f4ea6a04d5c13f0fa5f7e, type: 3}
+  - {fileID: 21300000, guid: 3a7d794bcaf3464dbdddb5bde5647dfe, type: 3}
+  - {fileID: 21300000, guid: 9422a55b5db0429bb627fdce5d9ccdbc, type: 3}
+  m_MinSpeed: 12
+  m_MaxSpeed: 12
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
