@@ -1,0 +1,128 @@
+[
+  {
+    "Name": "pillar_cap",
+    "Width": 66,
+    "Height": 66,
+    "Source": "props/pillar_top"
+  },
+  {
+    "Name": "pillar_mid",
+    "Width": 66,
+    "Height": 66,
+    "Source": "props/pillar_mid"
+  },
+  {
+    "Name": "pillar_base",
+    "Width": 66,
+    "Height": 66,
+    "Source": "props/pillar_base"
+  },
+  {
+    "Name": "wall_archway",
+    "Width": 64,
+    "Height": 64,
+    "Source": "background_walls/wall_archway"
+  },
+  {
+    "Name": "wall_window",
+    "Width": 64,
+    "Height": 64,
+    "Source": "background_walls/wall_window"
+  },
+  {
+    "Name": "wall_drain",
+    "Width": 64,
+    "Height": 64,
+    "Source": "background_walls/wall_drain"
+  },
+  {
+    "Name": "wall_cracked",
+    "Width": 64,
+    "Height": 64,
+    "Source": "background_walls/wall_cracked"
+  },
+  {
+    "Name": "wall_trim_top",
+    "Width": 64,
+    "Height": 64,
+    "Source": "background_walls/wall_trim_top"
+  },
+  {
+    "Name": "wall_trim_base",
+    "Width": 64,
+    "Height": 64,
+    "Source": "background_walls/wall_trim_base"
+  },
+  {
+    "Name": "wooden_rack",
+    "Width": 80,
+    "Height": 64,
+    "Source": "props/weapon_rack"
+  },
+  {
+    "Name": "ladder",
+    "Width": 36,
+    "Height": 68,
+    "Source": "props/ladder"
+  },
+  {
+    "Name": "chain_long",
+    "Width": 40,
+    "Height": 91,
+    "Source": "animated/chain_long/frames/chain_long_0"
+  },
+  {
+    "Name": "banner_skull",
+    "Width": 72,
+    "Height": 132,
+    "Source": "animated/banner_skull/frames/banner_skull_0"
+  },
+  {
+    "Name": "candelabra",
+    "Width": 56,
+    "Height": 90,
+    "Source": "animated/candelabra_lit/frames/candelabra_lit_0"
+  },
+  {
+    "Name": "brazier",
+    "Width": 80,
+    "Height": 122,
+    "Source": "animated/brazier/frames/brazier_0"
+  },
+  {
+    "Name": "bones",
+    "Width": 70,
+    "Height": 21,
+    "Source": "props/bones"
+  },
+  {
+    "Name": "rubble",
+    "Width": 68,
+    "Height": 28,
+    "Source": "props/rubble"
+  },
+  {
+    "Name": "barrel",
+    "Width": 52,
+    "Height": 67,
+    "Source": "props/barrel"
+  },
+  {
+    "Name": "portcullis",
+    "Width": 68,
+    "Height": 130,
+    "Source": "animated/portcullis_raise/frames/portcullis_raise_0"
+  },
+  {
+    "Name": "platform_wood",
+    "Width": 66,
+    "Height": 34,
+    "Source": "props/platform_wood_mid"
+  },
+  {
+    "Name": "hanging_cage",
+    "Width": 56,
+    "Height": 80,
+    "Source": "props/cage_hanging"
+  }
+]
